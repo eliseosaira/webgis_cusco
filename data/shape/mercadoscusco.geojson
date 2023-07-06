@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-05T03:15:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2994577",
+        "addr:city": "Cusco",
+        "addr:street": "Avenida Pachacútec",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Centro Artesanal de Cuzco",
+        "operator": "Municipalidad del Cuzco",
+        "type": "multipolygon",
+        "website": "http://www.artesaniacusco.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9721073,
+          -13.5247559
+        ]
+      },
+      "id": "relation/2994577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9045217",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado de San Blas",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "operator": "Asociación de Comerciantes",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9729728,
+          -13.5156035
+        ]
+      },
+      "id": "relation/9045217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11245260",
+        "amenity": "marketplace",
+        "architect": "large building with grass area in the middle and strange quarter circle design on one of the sides",
+        "building": "yes",
+        "name": "Mercado Modelo de Pichari",
+        "roof:colour": "red-like_brown",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8265241,
+          -12.5193753
+        ]
+      },
+      "id": "relation/11245260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37008405",
+        "amenity": "marketplace",
+        "landuse": "retail",
+        "name": "Mercado Modelo de Quillabamba",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6952509,
+          -12.8659329
+        ]
+      },
+      "id": "way/37008405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66325451",
+        "addr:city": "Cusco",
+        "amenity": "marketplace",
+        "building": "yes",
+        "height": "8",
+        "name": "Mercado de San Pedro",
+        "name:es": "Mercado de San Pedro",
+        "name:ko": "산페드로 중앙시장",
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "wikidata": "Q26213804",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.982513,
+          -13.5211485
+        ]
+      },
+      "id": "way/66325451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86381530",
+        "addr:street": "Jirón Gamarra",
+        "amenity": "marketplace",
+        "building": "retail",
+        "name": "Centro Comercial El Molino I",
+        "nohousenumber": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9626713,
+          -13.5353516
+        ]
+      },
+      "id": "way/86381530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86585520",
+        "amenity": "marketplace",
+        "name": "Mercado Vinocanchón",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8878094,
+          -13.5435894
+        ]
+      },
+      "id": "way/86585520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86836120",
+        "addr:city": "San Sebastián",
+        "addr:street": "Avenida Cusco",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Tankarniyoc",
+        "smoking": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9272282,
+          -13.5320044
+        ]
+      },
+      "id": "way/86836120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129172356",
+        "amenity": "marketplace",
+        "name": "Mercado de San Blas carpark",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "operator": "Asociación de Comerciantes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9729737,
+          -13.5158871
+        ]
+      },
+      "id": "way/129172356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/143255510",
+        "amenity": "marketplace",
+        "ele": "2048",
+        "name": "Mercado Artesanal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5245451,
+          -13.1554219
+        ]
+      },
+      "id": "way/143255510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222283117",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "name": "Mercado de Abastos Paucartambo",
+        "name:en": "Paucartambo Market",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5974676,
+          -13.3185122
+        ]
+      },
+      "id": "way/222283117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225937095",
+        "amenity": "marketplace",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6643622,
+          -12.9641135
+        ]
+      },
+      "id": "way/225937095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225978985",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Maranacá",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6946538,
+          -12.8678862
+        ]
+      },
+      "id": "way/225978985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267338103",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9889805,
+          -14.4833311
+        ]
+      },
+      "id": "way/267338103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275407858",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado de Pisac",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8489618,
+          -13.4218004
+        ]
+      },
+      "id": "way/275407858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297073430",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado de Pilcopata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4044531,
+          -12.9121879
+        ]
+      },
+      "id": "way/297073430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315821130",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado de Rosaspata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9663855,
+          -13.5181809
+        ]
+      },
+      "id": "way/315821130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331463104",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Modelo Urubamba",
+        "name:en": "Urubamba Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.117037,
+          -13.3055718
+        ]
+      },
+      "id": "way/331463104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331463105",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Antiguo",
+        "name:en": "Urubamba Old Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1166046,
+          -13.3056283
+        ]
+      },
+      "id": "way/331463105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367128630",
+        "addr:city": "calca",
+        "amenity": "marketplace",
+        "name": "Mercado Modelo",
+        "opening_hours": "Mo-Su 04:00-18:30",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9524818,
+          -13.3213005
+        ]
+      },
+      "id": "way/367128630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404450591",
+        "amenity": "marketplace",
+        "name": "Mercado Modelo de suykutambo",
+        "operator": "Municipalidad de suyckutambo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6420544,
+          -15.0088274
+        ]
+      },
+      "id": "way/404450591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/414240123",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8252855,
+          -12.5238758
+        ]
+      },
+      "id": "way/414240123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430113800",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado zonal de Zarzuela",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9842492,
+          -13.5281681
+        ]
+      },
+      "id": "way/430113800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445845511",
+        "amenity": "marketplace",
+        "name": "Mercado de Frutas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8918723,
+          -13.5489008
+        ]
+      },
+      "id": "way/445845511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472445251",
+        "amenity": "marketplace",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9728324,
+          -13.5310735
+        ]
+      },
+      "id": "way/472445251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/485237667",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Centro Comercial América",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9610802,
+          -13.5231685
+        ]
+      },
+      "id": "way/485237667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551183310",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado de Huancaro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9802841,
+          -13.5368612
+        ]
+      },
+      "id": "way/551183310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568043028",
+        "amenity": "marketplace",
+        "name": "Micaela Bastidas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6966027,
+          -12.8564938
+        ]
+      },
+      "id": "way/568043028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/569161067",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3874188,
+          -13.6269986
+        ]
+      },
+      "id": "way/569161067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/584984481",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9830352,
+          -13.5224029
+        ]
+      },
+      "id": "way/584984481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594374998",
+        "amenity": "marketplace",
+        "name": "Mercado de abastos de Huyro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5541863,
+          -13.0061386
+        ]
+      },
+      "id": "way/594374998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/665409492",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Tica Tica",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9959198,
+          -13.5072342
+        ]
+      },
+      "id": "way/665409492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/686604231",
+        "amenity": "marketplace",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4477178,
+          -12.8713147
+        ]
+      },
+      "id": "way/686604231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707414040",
+        "amenity": "marketplace",
+        "name": "Mercado de Paruro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8483829,
+          -13.7612997
+        ]
+      },
+      "id": "way/707414040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/711884178",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado de Layo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1548169,
+          -14.4945241
+        ]
+      },
+      "id": "way/711884178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715181998",
+        "amenity": "marketplace",
+        "name": "Mercado Ferial de Chinchaypujio",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2311351,
+          -13.6294863
+        ]
+      },
+      "id": "way/715181998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775738439",
+        "amenity": "marketplace",
+        "name": "Mercado Wanchaq",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9712599,
+          -13.5221453
+        ]
+      },
+      "id": "way/775738439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783104396",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9305547,
+          -13.726261
+        ]
+      },
+      "id": "way/783104396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788060236",
+        "amenity": "marketplace",
+        "building": "yes",
+        "layer": "1",
+        "name": "Mercado Central de Espinar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4098143,
+          -14.7922412
+        ]
+      },
+      "id": "way/788060236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790040241",
+        "amenity": "marketplace",
+        "name": "Mercado Multiuso Cusipata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4998994,
+          -13.9043973
+        ]
+      },
+      "id": "way/790040241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795393443",
+        "amenity": "marketplace",
+        "name": "Mercado de Productores de Ccatcca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5639533,
+          -13.6053726
+        ]
+      },
+      "id": "way/795393443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801051079",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1670571,
+          -14.3571182
+        ]
+      },
+      "id": "way/801051079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804311092",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Municipal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2045403,
+          -12.6380928
+        ]
+      },
+      "id": "way/804311092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/807227117",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mercado Central de Combapata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.430161,
+          -14.1023292
+        ]
+      },
+      "id": "way/807227117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/807253553",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5290802,
+          -13.6347742
+        ]
+      },
+      "id": "way/807253553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823277414",
+        "alt_name": "ACOPA Cusco",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Asociacion de Comerciantes Las Poderosas del Altiplano",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9643335,
+          -13.5223305
+        ]
+      },
+      "id": "way/823277414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833442677",
+        "amenity": "marketplace",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9552956,
+          -13.3215349
+        ]
+      },
+      "id": "way/833442677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839722881",
+        "amenity": "marketplace",
+        "barrier": "wall",
+        "name": "Campo Ferial Nuevo Versalles",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4218458,
+          -14.7837457
+        ]
+      },
+      "id": "way/839722881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/840896742",
+        "amenity": "marketplace",
+        "name": "Mercado de Productores Agroecologicos Lares",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0443216,
+          -13.1041497
+        ]
+      },
+      "id": "way/840896742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/851823173",
+        "amenity": "marketplace",
+        "name": "Mercado Ferial de Combapata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4291707,
+          -14.1032869
+        ]
+      },
+      "id": "way/851823173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859752267",
+        "amenity": "marketplace",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9332505,
+          -13.5313916
+        ]
+      },
+      "id": "way/859752267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874430114",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9210935,
+          -13.4834682
+        ]
+      },
+      "id": "node/874430114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874430132",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9179464,
+          -13.4705099
+        ]
+      },
+      "id": "node/874430132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/965296505",
+        "amenity": "marketplace",
+        "name": "Mercado de Chinchero",
+        "name:en": "Chinchero Market",
+        "note": "Textile market is here on Sundays",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0494069,
+          -13.3913235
+        ]
+      },
+      "id": "way/965296505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970234139",
+        "amenity": "marketplace",
+        "name": "Mercado de Productores de Urubamba",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1199826,
+          -13.306132
+        ]
+      },
+      "id": "way/970234139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970693426",
+        "amenity": "marketplace",
+        "name": "Mercado de Huayllabamba",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0647087,
+          -13.3374335
+        ]
+      },
+      "id": "way/970693426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/971048187",
+        "amenity": "marketplace",
+        "name": "Mercado de Productores San José de Urco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9690021,
+          -13.3246269
+        ]
+      },
+      "id": "way/971048187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/981037055",
+        "amenity": "marketplace",
+        "name": "Mercado de Huayllabamba",
+        "opening_hours": "Mo 07:00-13:00",
+        "street_vendor": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06518,
+          -13.3381827
+        ]
+      },
+      "id": "way/981037055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061489505",
+        "amenity": "marketplace",
+        "building": "retail",
+        "name": "Mercado El Molino II",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9610569,
+          -13.5358002
+        ]
+      },
+      "id": "way/1061489505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1079365715",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9229265,
+          -13.4737572
+        ]
+      },
+      "id": "way/1079365715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1079367848",
+        "amenity": "marketplace",
+        "name": "La Cachina Imperial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8365774,
+          -13.5664023
+        ]
+      },
+      "id": "way/1079367848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1079367849",
+        "amenity": "marketplace",
+        "opening_hours": "Sa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8375725,
+          -13.5658965
+        ]
+      },
+      "id": "way/1079367849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125765627",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1408445,
+          -13.4648692
+        ]
+      },
+      "id": "way/1125765627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015931215",
+        "amenity": "marketplace",
+        "name": "Mercado Artesanal Qoricancha Nº 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9752764,
+          -13.5222058
+        ]
+      },
+      "id": "node/2015931215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334410626",
+        "amenity": "marketplace",
+        "name": "Mercado Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2259586,
+          -14.2701227
+        ]
+      },
+      "id": "node/2334410626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2351288821",
+        "amenity": "marketplace",
+        "name": "Mercado Ollanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2629983,
+          -13.2589982
+        ]
+      },
+      "id": "node/2351288821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243566332",
+        "amenity": "marketplace",
+        "name": "Mercado Artesanal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0679148,
+          -13.3640829
+        ]
+      },
+      "id": "node/3243566332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3717711636",
+        "amenity": "marketplace",
+        "name": "Mercado Modelo de Kimbiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7876708,
+          -12.6211332
+        ]
+      },
+      "id": "node/3717711636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3889300231",
+        "amenity": "marketplace",
+        "name": "Mercado de Santa Teresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5946733,
+          -13.1285328
+        ]
+      },
+      "id": "node/3889300231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4386349789",
+        "amenity": "marketplace",
+        "name": "Mercado de Ccascaparo",
+        "name:en": "Ccascaparo's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9830497,
+          -13.5223681
+        ]
+      },
+      "id": "node/4386349789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4414183353",
+        "addr:city": "Pisac",
+        "addr:postcode": "001",
+        "addr:street": "Avenida Federico Zamalloa",
+        "amenity": "marketplace",
+        "name": "Mercado de Abastos Pisac",
+        "opening_hours": "07:00-17:00",
+        "operator": "Municipalidad Pisac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8487891,
+          -13.4218525
+        ]
+      },
+      "id": "node/4414183353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5127016822",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9784308,
+          -13.5240218
+        ]
+      },
+      "id": "node/5127016822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5177362224",
+        "amenity": "marketplace",
+        "name": "Mercado Modelo de Velille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8861383,
+          -14.5115633
+        ]
+      },
+      "id": "node/5177362224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792885901",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9810217,
+          -13.5247558
+        ]
+      },
+      "id": "node/5792885901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5930480740",
+        "amenity": "marketplace",
+        "name": "Cloth market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9663763,
+          -13.5219437
+        ]
+      },
+      "id": "node/5930480740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6751575187",
+        "addr:street": "Carretera Manu",
+        "amenity": "marketplace",
+        "name": "Mercado Patria",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4236424,
+          -12.970001
+        ]
+      },
+      "id": "node/6751575187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828208586",
+        "amenity": "marketplace",
+        "name": "Mercado de Frutas de Patria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.423387,
+          -12.9701175
+        ]
+      },
+      "id": "node/6828208586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828219687",
+        "addr:street": "Villa San Francisco",
+        "amenity": "marketplace",
+        "name": "Mercado de Frutas de Pilcopata",
+        "opening_hours": "Mo-Fr 00:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4046409,
+          -12.911992
+        ]
+      },
+      "id": "node/6828219687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118341148",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5185783,
+          -13.0027456
+        ]
+      },
+      "id": "node/9118341148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9334522037",
+        "amenity": "marketplace",
+        "name": "Mercado de Alfalfa",
+        "name:en": "Alfalfa Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1178612,
+          -13.3058596
+        ]
+      },
+      "id": "node/9334522037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9814676717",
+        "amenity": "marketplace",
+        "name:en": "Mercado Satellite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.694176,
+          -12.8677697
+        ]
+      },
+      "id": "node/9814676717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9912821117",
+        "amenity": "marketplace",
+        "name:en": "Plaza Manya Raqui Graft Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2655738,
+          -13.2574441
+        ]
+      },
+      "id": "node/9912821117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9993409422",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2266546,
+          -14.2783422
+        ]
+      },
+      "id": "node/9993409422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9993409520",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2258601,
+          -14.2774711
+        ]
+      },
+      "id": "node/9993409520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10019714917",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4087132,
+          -14.7898947
+        ]
+      },
+      "id": "node/10019714917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10019715020",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0815596,
+          -14.4512052
+        ]
+      },
+      "id": "node/10019715020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10773559673",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7812555,
+          -13.4912143
+        ]
+      },
+      "id": "node/10773559673"
+    }
+  ]
+}

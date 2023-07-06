@@ -1,0 +1,1677 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-05T03:20:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265821002",
+        "addr:city": "Cusco",
+        "addr:housenumber": "1624",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Caja Municipal Cusco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9520876,
+          -13.526003
+        ]
+      },
+      "id": "way/265821002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367124617",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Banco BBVA Continental",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9064527,
+          -13.5365646
+        ]
+      },
+      "id": "way/367124617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368845653",
+        "amenity": "bank",
+        "atm": "no",
+        "building": "yes",
+        "name": "Banco de la Nación",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2768693,
+          -12.6813531
+        ]
+      },
+      "id": "way/368845653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/459042682",
+        "addr:city": "Quillabamba",
+        "addr:housenumber": "545-549",
+        "addr:street": "Jr. Libertad",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BCP - Banco de Credito del Perú",
+        "phone": "+51 84 281460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6940207,
+          -12.8641247
+        ]
+      },
+      "id": "node/459042682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/459042684",
+        "addr:city": "Quillabamba",
+        "addr:housenumber": "155-157",
+        "addr:street": "Av. Francisco Bolognesi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BBVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6943379,
+          -12.8647528
+        ]
+      },
+      "id": "node/459042684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/584928769",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "BCP Cusco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9780607,
+          -13.5182843
+        ]
+      },
+      "id": "way/584928769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/584988924",
+        "amenity": "bank",
+        "brand": "BCP",
+        "brand:wikidata": "Q4854124",
+        "brand:wikipedia": "es:Banco de Crédito del Perú",
+        "building": "yes",
+        "name": "BCP",
+        "official_name": "Banco de Crédito del Perú",
+        "official_name:en": "Credit Bank of Peru",
+        "official_name:es": "Banco de Crédito del Perú",
+        "operator": "BCP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9747752,
+          -13.5151289
+        ]
+      },
+      "id": "way/584988924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691156251",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "BCP Larapa",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8995597,
+          -13.5413982
+        ]
+      },
+      "id": "way/691156251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788301852",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BCP",
+        "brand:wikidata": "Q4854124",
+        "brand:wikipedia": "es:Banco de Crédito del Perú",
+        "building": "yes",
+        "name": "BCP",
+        "name:en": "BCP",
+        "name:es": "BCP",
+        "official_name": "Banco de Crédito del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1126928,
+          -13.3098542
+        ]
+      },
+      "id": "way/788301852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801972748",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Cooperativa de Ahorro y Crédito Genesis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8869126,
+          -13.5429443
+        ]
+      },
+      "id": "way/801972748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/966049990",
+        "amenity": "bank",
+        "name": "InterBank",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9772148,
+          -13.5199227
+        ]
+      },
+      "id": "node/966049990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/966357605",
+        "amenity": "bank",
+        "name": "Banco de la Nación",
+        "opening_hours": "Mo-Fr 08:30-15:30; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9781385,
+          -13.5188426
+        ]
+      },
+      "id": "node/966357605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/966363789",
+        "addr:street": "Plaza de Armas",
+        "amenity": "bank",
+        "name": "BCP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9794206,
+          -13.5162122
+        ]
+      },
+      "id": "node/966363789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/966363934",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9790918,
+          -13.5172551
+        ]
+      },
+      "id": "node/966363934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715417475",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9764196,
+          -13.5185781
+        ]
+      },
+      "id": "node/1715417475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715425812",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9480038,
+          -13.526454
+        ]
+      },
+      "id": "node/1715425812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202257551",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco de la Nación",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5263374,
+          -13.1541625
+        ]
+      },
+      "id": "node/2202257551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334452282",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2272841,
+          -14.2727423
+        ]
+      },
+      "id": "node/2334452282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2348264398",
+        "amenity": "bank",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6924734,
+          -12.8628572
+        ]
+      },
+      "id": "node/2348264398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640572108",
+        "amenity": "bank",
+        "name": "Caja Metropolitana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.947542,
+          -13.5251818
+        ]
+      },
+      "id": "node/2640572108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640572109",
+        "amenity": "bank",
+        "name": "BCP La Cultura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9469711,
+          -13.5268237
+        ]
+      },
+      "id": "node/2640572109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2668110394",
+        "amenity": "bank",
+        "name": "Interbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9470945,
+          -13.5273424
+        ]
+      },
+      "id": "node/2668110394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2668110395",
+        "amenity": "bank",
+        "name": "Banbif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9469711,
+          -13.5273633
+        ]
+      },
+      "id": "node/2668110395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2774840128",
+        "amenity": "bank",
+        "name": "Scotiabank",
+        "name:en": "Scotiabank",
+        "name:es": "Scotiabank",
+        "operator": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9786414,
+          -13.5158751
+        ]
+      },
+      "id": "node/2774840128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2823847960",
+        "addr:city": "Cusco",
+        "addr:postcode": "08003",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "name": "Credinka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9464856,
+          -13.5268905
+        ]
+      },
+      "id": "node/2823847960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2823847981",
+        "addr:city": "Wanchaq",
+        "addr:postcode": "08002",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "name": "Quillacop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9480044,
+          -13.5271118
+        ]
+      },
+      "id": "node/2823847981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2823847982",
+        "addr:city": "Wanchaq",
+        "addr:postcode": "08002",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco de la Nación",
+        "note": "Solo Cajero Automático"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9477015,
+          -13.5271663
+        ]
+      },
+      "id": "node/2823847982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2823847990",
+        "addr:city": "Wanchaq",
+        "addr:postcode": "08002",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "name": "Caja Municipal Tacna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9465515,
+          -13.527394
+        ]
+      },
+      "id": "node/2823847990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3364761776",
+        "amenity": "bank",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9318925,
+          -13.5315613
+        ]
+      },
+      "id": "node/3364761776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710861081",
+        "addr:city": "Wanchaq",
+        "addr:housenumber": "F-8",
+        "addr:postcode": "084",
+        "addr:street": "Avenida Velasco Astete",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Agente BCP",
+        "opening_hours": "Mo-Sa 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9477182,
+          -13.5384287
+        ]
+      },
+      "id": "node/3710861081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3858007852",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9554366,
+          -13.3213657
+        ]
+      },
+      "id": "node/3858007852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4150235494",
+        "amenity": "bank",
+        "name": "Mi Banco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1450126,
+          -13.4640082
+        ]
+      },
+      "id": "node/4150235494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327022392",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Caja Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9562077,
+          -13.3213267
+        ]
+      },
+      "id": "node/4327022392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365465273",
+        "amenity": "bank",
+        "name": "Interbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9065522,
+          -13.536523
+        ]
+      },
+      "id": "node/4365465273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368566986",
+        "amenity": "bank",
+        "operator": "Caja Municipal Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9089579,
+          -13.534883
+        ]
+      },
+      "id": "node/4368566986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370460509",
+        "amenity": "bank",
+        "name": "Caja Municipal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1461891,
+          -13.4635954
+        ]
+      },
+      "id": "node/4370460509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443141990",
+        "addr:street": "Jirón Independencia",
+        "amenity": "bank",
+        "name": "quillacoop",
+        "name:es": "quillacoop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6926875,
+          -12.8626917
+        ]
+      },
+      "id": "node/4443141990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4517141991",
+        "amenity": "bank",
+        "check_date": "2023-06-06",
+        "name": "BCP Diagonal Cusco",
+        "name:es": "Bcp tacna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9679484,
+          -13.5219164
+        ]
+      },
+      "id": "node/4517141991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612411191",
+        "amenity": "bank",
+        "name": "Banco Continental",
+        "name:es": "Banco Continental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9773251,
+          -13.5197623
+        ]
+      },
+      "id": "node/4612411191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612541390",
+        "amenity": "bank",
+        "check_date": "2023-06-13",
+        "name": "Banco Central de Reserva Cusco",
+        "name:es": "Banco Central de Reserva Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9765586,
+          -13.5205903
+        ]
+      },
+      "id": "node/4612541390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729982089",
+        "amenity": "bank",
+        "name": "Western Union Central",
+        "name:es": "Western Union Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9764994,
+          -13.5188334
+        ]
+      },
+      "id": "node/4729982089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858506923",
+        "addr:street": "Avenida Mariscal Castilla",
+        "amenity": "bank",
+        "name": "Caja Cusco",
+        "website": "http://www.cmac-cusco.com.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1142572,
+          -13.3075815
+        ]
+      },
+      "id": "node/4858506923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990638425",
+        "amenity": "bank",
+        "name": "Banco Azteca",
+        "name:es": "Banco Azteca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9672891,
+          -13.5216554
+        ]
+      },
+      "id": "node/4990638425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990641228",
+        "amenity": "bank",
+        "name": "Caja Cusco",
+        "name:es": "Caja Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9676732,
+          -13.5220155
+        ]
+      },
+      "id": "node/4990641228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990641229",
+        "amenity": "bank",
+        "name": "Caja Arequipa",
+        "name:es": "Caja Arequipa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9676948,
+          -13.5213761
+        ]
+      },
+      "id": "node/4990641229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990677821",
+        "amenity": "bank",
+        "name": "Interbank",
+        "name:es": "Interbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9676093,
+          -13.5218965
+        ]
+      },
+      "id": "node/4990677821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990678221",
+        "amenity": "bank",
+        "name": "Caja Piura",
+        "name:es": "Caja Piura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9720822,
+          -13.5201729
+        ]
+      },
+      "id": "node/4990678221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991459329",
+        "amenity": "bank",
+        "name": "Banco Financiero",
+        "name:es": "Banco Financiero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9693442,
+          -13.522677
+        ]
+      },
+      "id": "node/4991459329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991469021",
+        "amenity": "bank",
+        "name": "Caja Huancayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9692258,
+          -13.5226778
+        ]
+      },
+      "id": "node/4991469021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993542422",
+        "amenity": "bank",
+        "name": "Caja Municipal Cusco",
+        "name:es": "Caja Municipal Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.977,
+          -13.519122
+        ]
+      },
+      "id": "node/4993542422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995716224",
+        "amenity": "bank",
+        "name": "Mibanco",
+        "name:es": "Mibanco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6266341,
+          -13.6873952
+        ]
+      },
+      "id": "node/4995716224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995716326",
+        "amenity": "bank",
+        "name": "Banco de la Nación",
+        "name:es": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6264342,
+          -13.687084
+        ]
+      },
+      "id": "node/4995716326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995716327",
+        "amenity": "bank",
+        "name": "Caja Municipal Cusco",
+        "name:es": "Caja Municipal Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6264605,
+          -13.6874177
+        ]
+      },
+      "id": "node/4995716327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003823421",
+        "amenity": "bank",
+        "name": "BCP Huayruropata",
+        "name:es": "BCP Huayruropata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9635424,
+          -13.5255162
+        ]
+      },
+      "id": "node/5003823421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003869621",
+        "amenity": "bank",
+        "name": "BCP Sicuani",
+        "name:es": "BCP Sicuani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2270814,
+          -14.2727163
+        ]
+      },
+      "id": "node/5003869621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5099666219",
+        "amenity": "bank",
+        "name": "Caja Los Andes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9639731,
+          -13.5222093
+        ]
+      },
+      "id": "node/5099666219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5099667544",
+        "amenity": "bank",
+        "name": "Cooperativa Santo Domingo de Guzmán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9636025,
+          -13.522315
+        ]
+      },
+      "id": "node/5099667544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5173940773",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4130689,
+          -14.7926927
+        ]
+      },
+      "id": "node/5173940773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5173949160",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4111178,
+          -14.7923779
+        ]
+      },
+      "id": "node/5173949160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5173951024",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Caja Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4101836,
+          -14.7913982
+        ]
+      },
+      "id": "node/5173951024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5239104428",
+        "amenity": "bank",
+        "name": "Banco de la Nación",
+        "name:es": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9828459,
+          -13.525862
+        ]
+      },
+      "id": "node/5239104428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5533643321",
+        "amenity": "bank",
+        "name": "Western Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9793489,
+          -13.5169209
+        ]
+      },
+      "id": "node/5533643321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593297356",
+        "amenity": "bank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.906748,
+          -13.5370761
+        ]
+      },
+      "id": "node/5593297356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5642053422",
+        "amenity": "bank",
+        "name": "Banco Nacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5536308,
+          -13.0068102
+        ]
+      },
+      "id": "node/5642053422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678560421",
+        "amenity": "bank",
+        "name": "Banco",
+        "opening_hours": "Mo-Fr 00:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5539273,
+          -13.0066456
+        ]
+      },
+      "id": "node/5678560421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5879979485",
+        "amenity": "bank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5239724,
+          -13.1556225
+        ]
+      },
+      "id": "node/5879979485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922523523",
+        "addr:housenumber": "613",
+        "addr:street": "Avenida el Sol",
+        "amenity": "bank",
+        "name": "BanBif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.975486,
+          -13.5215914
+        ]
+      },
+      "id": "node/5922523523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5952134085",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "bank",
+        "name": "Caja Arequipa",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9071091,
+          -13.5368268
+        ]
+      },
+      "id": "node/5952134085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5955625585",
+        "amenity": "bank",
+        "name": "Caja Arequipa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1457492,
+          -13.4635316
+        ]
+      },
+      "id": "node/5955625585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6107335741",
+        "amenity": "bank",
+        "level": "2",
+        "name": "BCP",
+        "website": "https://realplaza.pe/cusco/tienda/banco-de-credito-del-peru-8273/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9503388,
+          -13.5229654
+        ]
+      },
+      "id": "node/6107335741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6568313614",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6524735,
+          -13.6160854
+        ]
+      },
+      "id": "node/6568313614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988432721",
+        "amenity": "bank",
+        "name": "Agente Interbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9268511,
+          -13.5398472
+        ]
+      },
+      "id": "node/6988432721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064546774",
+        "amenity": "bank",
+        "name": "Banco de la Nación",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5974076,
+          -13.318647
+        ]
+      },
+      "id": "node/7064546774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064546776",
+        "amenity": "bank",
+        "name": "Caja Cusco",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5966659,
+          -13.3176182
+        ]
+      },
+      "id": "node/7064546776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064546777",
+        "amenity": "bank",
+        "name": "Coopac Crediperu",
+        "note": "Cooperativa",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5968268,
+          -13.3175157
+        ]
+      },
+      "id": "node/7064546777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064546778",
+        "amenity": "bank",
+        "name": "Financiera Credinka",
+        "note": "Can buy SOAT insurance; The name of this street is Ilustrismo Perez y Armendariz",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5960206,
+          -13.3178773
+        ]
+      },
+      "id": "node/7064546778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7278443085",
+        "amenity": "bank",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0024339,
+          -14.0072026
+        ]
+      },
+      "id": "node/7278443085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7355126693",
+        "amenity": "bank",
+        "name": "Agente Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.081092,
+          -14.4494837
+        ]
+      },
+      "id": "node/7355126693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7355126694",
+        "amenity": "bank",
+        "name": "Mi Banco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0812548,
+          -14.4497476
+        ]
+      },
+      "id": "node/7355126694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7364388186",
+        "amenity": "bank",
+        "brand": "Banco Azteca",
+        "brand:en": "Aztec Bank",
+        "brand:es": "Banco Azteca",
+        "brand:wikidata": "Q4854076",
+        "brand:wikipedia": "en:Banco Azteca",
+        "name": "Banco Azteca",
+        "name:en": "Aztec Bank",
+        "name:es": "Banco Azteca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2281528,
+          -14.2703404
+        ]
+      },
+      "id": "node/7364388186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8984172372",
+        "amenity": "bank",
+        "brand": "Banco de la Nación",
+        "brand:wikidata": "Q4856206",
+        "brand:wikipedia": "en:Bank of the Nation (Peru)",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1185674,
+          -13.3039759
+        ]
+      },
+      "id": "node/8984172372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092587315",
+        "amenity": "bank",
+        "name": "Caja Huancayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.117729,
+          -13.3050128
+        ]
+      },
+      "id": "node/9092587315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092622279",
+        "amenity": "bank",
+        "name": "Financiera Credinka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1163674,
+          -13.3061179
+        ]
+      },
+      "id": "node/9092622279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092648871",
+        "amenity": "bank",
+        "name": "Mibanco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.118847,
+          -13.3050807
+        ]
+      },
+      "id": "node/9092648871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9315596096",
+        "amenity": "bank",
+        "level": "2",
+        "name": "Interbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9502835,
+          -13.5226394
+        ]
+      },
+      "id": "node/9315596096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9315612950",
+        "amenity": "bank",
+        "level": "2",
+        "name": "BBVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9503007,
+          -13.5228552
+        ]
+      },
+      "id": "node/9315612950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9315640165",
+        "amenity": "bank",
+        "level": "2",
+        "name": "Caja Municipal Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9504478,
+          -13.5226318
+        ]
+      },
+      "id": "node/9315640165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9390993317",
+        "amenity": "bank",
+        "name": "Caja Cusco",
+        "opening_hours": "Mo-Su 09:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9968281,
+          -13.5072576
+        ]
+      },
+      "id": "node/9390993317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9395624936",
+        "amenity": "bank",
+        "name": "MiBanco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9739283,
+          -13.5228693
+        ]
+      },
+      "id": "node/9395624936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536937610",
+        "amenity": "bank",
+        "name": "Caja Piura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1190157,
+          -13.3045017
+        ]
+      },
+      "id": "node/9536937610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701887850",
+        "amenity": "bank",
+        "name": "Banco de la Nación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9555671,
+          -13.321494
+        ]
+      },
+      "id": "node/9701887850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9993409227",
+        "amenity": "bank",
+        "name": "BCP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2281159,
+          -14.2683777
+        ]
+      },
+      "id": "node/9993409227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10090420417",
+        "amenity": "bank",
+        "name": "Caja Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.847038,
+          -13.7613316
+        ]
+      },
+      "id": "node/10090420417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10090422817",
+        "amenity": "bank",
+        "name": "Credinka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8471922,
+          -13.7609935
+        ]
+      },
+      "id": "node/10090422817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312184792",
+        "amenity": "bank",
+        "name": "Mibanco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9477852,
+          -13.5265218
+        ]
+      },
+      "id": "node/10312184792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10943220001",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Caja Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.146154,
+          -13.4636504
+        ]
+      },
+      "id": "node/10943220001"
+    }
+  ]
+}

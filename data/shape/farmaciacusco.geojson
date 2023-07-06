@@ -1,0 +1,2089 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-05T03:16:07Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/454742080",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5942722,
+          -13.129675
+        ]
+      },
+      "id": "node/454742080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/454742100",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5939117,
+          -13.129675
+        ]
+      },
+      "id": "node/454742100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690798317",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Botica Central",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8865695,
+          -13.5431325
+        ]
+      },
+      "id": "way/690798317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/692991976",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8801474,
+          -13.5410293
+        ]
+      },
+      "id": "way/692991976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788183550",
+        "amenity": "pharmacy",
+        "brand": "Inkafarma",
+        "brand:wikidata": "Q10997748",
+        "brand:wikipedia": "es:Inkafarma",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Inkafarma",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1146145,
+          -13.3081425
+        ]
+      },
+      "id": "way/788183550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801544026",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Botica Salud es Vida",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0651789,
+          -13.3386111
+        ]
+      },
+      "id": "way/801544026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801960177",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Botica Multiservicios J&E",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8883383,
+          -13.5427607
+        ]
+      },
+      "id": "way/801960177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801997632",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia S&Z",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8858758,
+          -13.5435142
+        ]
+      },
+      "id": "way/801997632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802021958",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Botica Biofarma",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8843907,
+          -13.5442031
+        ]
+      },
+      "id": "way/802021958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964418798",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.883057,
+          -13.5443668
+        ]
+      },
+      "id": "way/964418798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/966052944",
+        "amenity": "pharmacy",
+        "name": "InkaFarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.978384,
+          -13.5185511
+        ]
+      },
+      "id": "node/966052944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1990578189",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6943803,
+          -12.8645666
+        ]
+      },
+      "id": "node/1990578189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2657159571",
+        "amenity": "pharmacy",
+        "name": "Botica Vero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9462121,
+          -13.5277622
+        ]
+      },
+      "id": "node/2657159571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741367603",
+        "amenity": "pharmacy",
+        "name": "Señor de Huanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6942596,
+          -12.8641555
+        ]
+      },
+      "id": "node/2741367603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741367675",
+        "amenity": "pharmacy",
+        "name": "Farmacia Municipal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6941555,
+          -12.8646991
+        ]
+      },
+      "id": "node/2741367675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741464778",
+        "addr:street": "Avenida Miguel Grau",
+        "amenity": "pharmacy",
+        "name": "Farmacia Quillabamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6933725,
+          -12.8649189
+        ]
+      },
+      "id": "node/2741464778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786231967",
+        "amenity": "pharmacy",
+        "operator": "InkaFarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.978107,
+          -13.519913
+        ]
+      },
+      "id": "node/2786231967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786231969",
+        "amenity": "pharmacy",
+        "operator": "Mifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9782676,
+          -13.5200963
+        ]
+      },
+      "id": "node/2786231969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2823847978",
+        "addr:city": "Wanchaq",
+        "addr:postcode": "08002",
+        "addr:street": "Avenida de la Cultura",
+        "amenity": "pharmacy",
+        "name": "Farmacia Santa Rosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9482777,
+          -13.5270694
+        ]
+      },
+      "id": "node/2823847978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3437586998",
+        "addr:city": "Aguas Calientes",
+        "addr:street": "Calle Collasuyo",
+        "amenity": "pharmacy",
+        "name": "Carita Feliz",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5261768,
+          -13.1540268
+        ]
+      },
+      "id": "node/3437586998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710856394",
+        "addr:street": "Velasco Astete",
+        "amenity": "pharmacy",
+        "name": "El Milagro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9507675,
+          -13.5373763
+        ]
+      },
+      "id": "node/3710856394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4110111901",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9206417,
+          -13.5324295
+        ]
+      },
+      "id": "node/4110111901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4150235023",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1473454,
+          -13.4630837
+        ]
+      },
+      "id": "node/4150235023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437377693",
+        "amenity": "pharmacy",
+        "name": "Botica la Salud",
+        "name:es": "Botica la Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6291229,
+          -13.2292271
+        ]
+      },
+      "id": "node/4437377693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443141891",
+        "addr:street": "Jirón Cusco",
+        "amenity": "pharmacy",
+        "name": "inkafarma",
+        "name:es": "inkafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6944873,
+          -12.8663499
+        ]
+      },
+      "id": "node/4443141891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443141892",
+        "addr:street": "Avenida San Martín",
+        "amenity": "pharmacy",
+        "name": "arcángel",
+        "name:es": "arcángel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6946059,
+          -12.8663706
+        ]
+      },
+      "id": "node/4443141892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4804700923",
+        "addr:housenumber": "130",
+        "addr:street": "Mantas",
+        "amenity": "pharmacy",
+        "name": "InkaFarma",
+        "name:en": "InkaFarma",
+        "name:es": "InkaFarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9791304,
+          -13.5177086
+        ]
+      },
+      "id": "node/4804700923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4983982229",
+        "amenity": "pharmacy",
+        "name": "Botica G&J",
+        "name:en": "Botica G&J",
+        "name:es": "Botica G&J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2634953,
+          -13.2583525
+        ]
+      },
+      "id": "node/4983982229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4987288821",
+        "amenity": "pharmacy",
+        "name": "Botica Mi Peru Farma",
+        "name:es": "Botica Mi Peru Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4454587,
+          -13.4793859
+        ]
+      },
+      "id": "node/4987288821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991459330",
+        "amenity": "pharmacy",
+        "name": "Mifarma",
+        "name:es": "Mifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9701952,
+          -13.5228684
+        ]
+      },
+      "id": "node/4991459330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991459332",
+        "amenity": "pharmacy",
+        "name": "Mifarma",
+        "name:es": "Mifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9710025,
+          -13.5227233
+        ]
+      },
+      "id": "node/4991459332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991461624",
+        "amenity": "pharmacy",
+        "name": "Inkafarma",
+        "name:es": "Inkafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9695146,
+          -13.5229037
+        ]
+      },
+      "id": "node/4991461624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995716325",
+        "amenity": "pharmacy",
+        "name": "Inkafarma",
+        "name:es": "Inkafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6261394,
+          -13.6878054
+        ]
+      },
+      "id": "node/4995716325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019101223",
+        "amenity": "pharmacy",
+        "name": "Mifarma",
+        "name:en": "Mifarma",
+        "name:es": "Mifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9786419,
+          -13.5182561
+        ]
+      },
+      "id": "node/5019101223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5177360732",
+        "amenity": "pharmacy",
+        "atm": "yes",
+        "name": "Farmasalud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7745963,
+          -14.4959127
+        ]
+      },
+      "id": "node/5177360732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221665917",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Botica Farmakeb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1167024,
+          -13.305176
+        ]
+      },
+      "id": "node/5221665917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5298547823",
+        "addr:housenumber": "508",
+        "addr:postcode": "08254",
+        "addr:street": "Jr. 28 de Julio",
+        "amenity": "pharmacy",
+        "name": "Botica Santa Rosita",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+51 84 351704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2257818,
+          -14.2751196
+        ]
+      },
+      "id": "node/5298547823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402660222",
+        "amenity": "pharmacy",
+        "name": "Mifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9772816,
+          -13.5194303
+        ]
+      },
+      "id": "node/5402660222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5520632178",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5252229,
+          -13.1549724
+        ]
+      },
+      "id": "node/5520632178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5646718121",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9844339,
+          -13.5210999
+        ]
+      },
+      "id": "node/5646718121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5648213126",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Luren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9823111,
+          -13.5220684
+        ]
+      },
+      "id": "node/5648213126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685330564",
+        "addr:housenumber": "132",
+        "addr:street": "Mantas",
+        "amenity": "pharmacy",
+        "name": "Mifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9791803,
+          -13.5177322
+        ]
+      },
+      "id": "node/5685330564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5994376085",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9834423,
+          -13.5161984
+        ]
+      },
+      "id": "node/5994376085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6293751185",
+        "amenity": "pharmacy",
+        "name": "Drugstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9834702,
+          -13.5161503
+        ]
+      },
+      "id": "node/6293751185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6713623786",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4037909,
+          -12.9126849
+        ]
+      },
+      "id": "node/6713623786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988432728",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Botica Farmasol",
+        "opening_hours": "Mo-Sa 09:00-20:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9269359,
+          -13.5406225
+        ]
+      },
+      "id": "node/6988432728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064546755",
+        "amenity": "pharmacy",
+        "name": "Botica multiservicios Virgen del Carmen",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5969662,
+          -13.3180584
+        ]
+      },
+      "id": "node/7064546755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064546756",
+        "amenity": "pharmacy",
+        "name": "Botica multiservicios pharma Peru",
+        "note": "Also does cellphone recargas for Movistar and Claro",
+        "source": "Missing Maps Kobo",
+        "source:date": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5970181,
+          -13.3181696
+        ]
+      },
+      "id": "node/7064546756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7094396785",
+        "addr:city": "Cusco",
+        "addr:housenumber": "5772",
+        "addr:street": "Av. Prolongacion de la Cultura",
+        "addr:suburb": "San Sebastian",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Inkafarma",
+        "website": "http://www.inkafarma.com.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.90691,
+          -13.5370262
+        ]
+      },
+      "id": "node/7094396785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7223874237",
+        "amenity": "pharmacy",
+        "name": "Farmandina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9810438,
+          -13.5162384
+        ]
+      },
+      "id": "node/7223874237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8960259606",
+        "amenity": "pharmacy",
+        "name": "Botica Salud y Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5972487,
+          -13.3185032
+        ]
+      },
+      "id": "node/8960259606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8972784841",
+        "amenity": "pharmacy",
+        "name": "Botica Salud y Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1145732,
+          -13.3088896
+        ]
+      },
+      "id": "node/8972784841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8975265568",
+        "amenity": "pharmacy",
+        "name": "Botica la Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.114456,
+          -13.3082411
+        ]
+      },
+      "id": "node/8975265568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8983636301",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacil",
+        "phone": "+51981842994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0638598,
+          -13.3367736
+        ]
+      },
+      "id": "node/8983636301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9025582064",
+        "amenity": "pharmacy",
+        "name": "Botica Nueva Fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1367442,
+          -13.2940856
+        ]
+      },
+      "id": "node/9025582064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9039034264",
+        "amenity": "pharmacy",
+        "name": "Gael"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1174643,
+          -13.3825874
+        ]
+      },
+      "id": "node/9039034264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9069123091",
+        "amenity": "pharmacy",
+        "name": "San Gregorio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0865677,
+          -13.3196606
+        ]
+      },
+      "id": "node/9069123091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074219586",
+        "amenity": "pharmacy",
+        "name": "Ramiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1184921,
+          -13.3047517
+        ]
+      },
+      "id": "node/9074219586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074246148",
+        "amenity": "pharmacy",
+        "name": "Botica Diego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1184128,
+          -13.3047753
+        ]
+      },
+      "id": "node/9074246148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074259042",
+        "amenity": "pharmacy",
+        "name": "L&D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.115637,
+          -13.3079151
+        ]
+      },
+      "id": "node/9074259042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074274159",
+        "amenity": "pharmacy",
+        "name": "Intifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1147185,
+          -13.3088312
+        ]
+      },
+      "id": "node/9074274159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074274161",
+        "amenity": "pharmacy",
+        "name": "Botica San Francisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1142615,
+          -13.3095387
+        ]
+      },
+      "id": "node/9074274161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074274452",
+        "amenity": "pharmacy",
+        "name": "Nueva Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1184474,
+          -13.3047667
+        ]
+      },
+      "id": "node/9074274452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9084777609",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.081975,
+          -13.3230664
+        ]
+      },
+      "id": "node/9084777609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9089526978",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "María de la Merced II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1169605,
+          -13.3051977
+        ]
+      },
+      "id": "node/9089526978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9089568494",
+        "amenity": "pharmacy",
+        "name": "Farma Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1164556,
+          -13.3053847
+        ]
+      },
+      "id": "node/9089568494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9089572573",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "María de la Merced"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1168693,
+          -13.3052234
+        ]
+      },
+      "id": "node/9089572573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9089572574",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1156822,
+          -13.3064528
+        ]
+      },
+      "id": "node/9089572574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092609758",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1568109,
+          -13.3351079
+        ]
+      },
+      "id": "node/9092609758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092656022",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1556756,
+          -13.3331145
+        ]
+      },
+      "id": "node/9092656022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095162655",
+        "amenity": "pharmacy",
+        "description": "agente kasnet",
+        "name": "Mery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1144715,
+          -13.3075318
+        ]
+      },
+      "id": "node/9095162655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095162656",
+        "amenity": "pharmacy",
+        "name": "Unión"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1154116,
+          -13.3065469
+        ]
+      },
+      "id": "node/9095162656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095162657",
+        "amenity": "pharmacy",
+        "name": "Juan Pablo II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1143813,
+          -13.3078568
+        ]
+      },
+      "id": "node/9095162657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095309119",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "HTL Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1110329,
+          -13.3106999
+        ]
+      },
+      "id": "node/9095309119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9101929853",
+        "amenity": "pharmacy",
+        "name": "Sr. De Qoylloritty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0476946,
+          -13.327926
+        ]
+      },
+      "id": "node/9101929853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9102485518",
+        "amenity": "pharmacy",
+        "name": "Inkafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2633869,
+          -13.2583904
+        ]
+      },
+      "id": "node/9102485518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139211748",
+        "amenity": "pharmacy",
+        "name": "Lifarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9550493,
+          -13.3228672
+        ]
+      },
+      "id": "node/9139211748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139243919",
+        "amenity": "pharmacy",
+        "name": "Max Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9561578,
+          -13.3223562
+        ]
+      },
+      "id": "node/9139243919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222369733",
+        "amenity": "pharmacy",
+        "name": "Botica San Juan de Dios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1124478,
+          -13.308097
+        ]
+      },
+      "id": "node/9222369733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9230392188",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0065911,
+          -13.5076806
+        ]
+      },
+      "id": "node/9230392188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9230394335",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9986332,
+          -13.5074884
+        ]
+      },
+      "id": "node/9230394335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9230395751",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0026571,
+          -13.5076225
+        ]
+      },
+      "id": "node/9230395751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9300888105",
+        "amenity": "pharmacy",
+        "name": "Virgen de Guadalupe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1853617,
+          -13.2776451
+        ]
+      },
+      "id": "node/9300888105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9300896328",
+        "amenity": "pharmacy",
+        "name": "Salud y Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1854541,
+          -13.2778075
+        ]
+      },
+      "id": "node/9300896328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9311172300",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9925517,
+          -13.5081925
+        ]
+      },
+      "id": "node/9311172300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9312921652",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1152243,
+          -13.307407
+        ]
+      },
+      "id": "node/9312921652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9324715363",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0533502,
+          -13.4065726
+        ]
+      },
+      "id": "node/9324715363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9325168836",
+        "amenity": "pharmacy",
+        "name": "Virgen del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9794509,
+          -13.5170865
+        ]
+      },
+      "id": "node/9325168836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9389565357",
+        "amenity": "pharmacy",
+        "name": "Flores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0839148,
+          -13.3217293
+        ]
+      },
+      "id": "node/9389565357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9390993218",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.979898,
+          -13.5233873
+        ]
+      },
+      "id": "node/9390993218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9419444743",
+        "amenity": "pharmacy",
+        "name": "Botica Valle Sagrado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1162453,
+          -13.3062443
+        ]
+      },
+      "id": "node/9419444743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421759914",
+        "amenity": "pharmacy",
+        "name": "Valezka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.155721,
+          -13.3333001
+        ]
+      },
+      "id": "node/9421759914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9445676267",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0457911,
+          -13.3390629
+        ]
+      },
+      "id": "node/9445676267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476388224",
+        "amenity": "pharmacy",
+        "name": "Señor de Exaltación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1172636,
+          -13.3059174
+        ]
+      },
+      "id": "node/9476388224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9506638803",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1205619,
+          -13.3039961
+        ]
+      },
+      "id": "node/9506638803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9509002823",
+        "amenity": "pharmacy",
+        "name": "Farmalife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1854159,
+          -13.2683331
+        ]
+      },
+      "id": "node/9509002823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527239133",
+        "amenity": "pharmacy",
+        "name": "Farma Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8844313,
+          -13.5414187
+        ]
+      },
+      "id": "node/9527239133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527278215",
+        "amenity": "pharmacy",
+        "name": "Salud y Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8882304,
+          -13.5442674
+        ]
+      },
+      "id": "node/9527278215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527314239",
+        "amenity": "pharmacy",
+        "name": "Farmabel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8870105,
+          -13.5438799
+        ]
+      },
+      "id": "node/9527314239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536933242",
+        "amenity": "pharmacy",
+        "name": "Farmasol Z&R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.119116,
+          -13.3044662
+        ]
+      },
+      "id": "node/9536933242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536936885",
+        "amenity": "pharmacy",
+        "name": "Nueva Esperanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1191646,
+          -13.3044436
+        ]
+      },
+      "id": "node/9536936885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701857611",
+        "amenity": "pharmacy",
+        "name": "Ruth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.023269,
+          -13.3100247
+        ]
+      },
+      "id": "node/9701857611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701861886",
+        "amenity": "pharmacy",
+        "name": "Mamacha Asunta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9546907,
+          -13.3223742
+        ]
+      },
+      "id": "node/9701861886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701905714",
+        "amenity": "pharmacy",
+        "name": "J&R Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9544257,
+          -13.3216848
+        ]
+      },
+      "id": "node/9701905714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701909456",
+        "amenity": "pharmacy",
+        "name": "J&S II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9549769,
+          -13.3214551
+        ]
+      },
+      "id": "node/9701909456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701910942",
+        "amenity": "pharmacy",
+        "name": "San Miguel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.954802,
+          -13.3215159
+        ]
+      },
+      "id": "node/9701910942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709705381",
+        "amenity": "pharmacy",
+        "name": "MiFarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9616488,
+          -13.5228218
+        ]
+      },
+      "id": "node/9709705381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9783955053",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0053549,
+          -13.3116922
+        ]
+      },
+      "id": "node/9783955053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9840087752",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0519909,
+          -13.396312
+        ]
+      },
+      "id": "node/9840087752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863031939",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0530282,
+          -13.4068947
+        ]
+      },
+      "id": "node/9863031939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910619054",
+        "amenity": "pharmacy",
+        "name": "La Luz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8503943,
+          -13.4222313
+        ]
+      },
+      "id": "node/9910619054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910625148",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8510937,
+          -13.4214852
+        ]
+      },
+      "id": "node/9910625148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910655186",
+        "amenity": "pharmacy",
+        "name": "Shaddai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8508439,
+          -13.4228722
+        ]
+      },
+      "id": "node/9910655186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910655537",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8508386,
+          -13.4229607
+        ]
+      },
+      "id": "node/9910655537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910668754",
+        "amenity": "pharmacy",
+        "name": "Farmasur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.850814,
+          -13.4227848
+        ]
+      },
+      "id": "node/9910668754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910669403",
+        "amenity": "pharmacy",
+        "name": "Inkafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8522207,
+          -13.4227472
+        ]
+      },
+      "id": "node/9910669403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910669543",
+        "amenity": "pharmacy",
+        "name": "Amauta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8507586,
+          -13.4226682
+        ]
+      },
+      "id": "node/9910669543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910671112",
+        "amenity": "pharmacy",
+        "name": "Virgen del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8507019,
+          -13.4224898
+        ]
+      },
+      "id": "node/9910671112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910674938",
+        "amenity": "pharmacy",
+        "name": "Claudia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8511942,
+          -13.4229944
+        ]
+      },
+      "id": "node/9910674938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957478268",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0728061,
+          -13.3293572
+        ]
+      },
+      "id": "node/9957478268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10010139728",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0096594,
+          -13.3124947
+        ]
+      },
+      "id": "node/10010139728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10038131516",
+        "amenity": "pharmacy",
+        "name": "Reyna de los Ángeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1149835,
+          -13.3066241
+        ]
+      },
+      "id": "node/10038131516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10038203099",
+        "amenity": "pharmacy",
+        "name": "Tú Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.11438,
+          -13.3071724
+        ]
+      },
+      "id": "node/10038203099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117374784",
+        "amenity": "pharmacy",
+        "name": "Inkafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9832937,
+          -13.5209956
+        ]
+      },
+      "id": "node/10117374784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10816214630",
+        "amenity": "pharmacy",
+        "check_date:opening_hours": "2023-04-16",
+        "healthcare": "pharmacy",
+        "name": "Botica F y J",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9116231,
+          -13.5426732
+        ]
+      },
+      "id": "node/10816214630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933185366",
+        "amenity": "pharmacy",
+        "name": "Servilab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.114386,
+          -13.3079053
+        ]
+      },
+      "id": "node/10933185366"
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-05T03:25:17Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8261812",
+        "alt_name": "Museo de Arte Arzobispado",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Museo de Arte Religioso",
+        "name:en": "Museum of Religious Art",
+        "name:es": "Museo de Arte Religioso",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "operator": "Arzobispado de Cusco",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9761407,
+          -13.5162037
+        ]
+      },
+      "id": "relation/8261812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225524884",
+        "email": "acallapinah@culturacusco.gob.pe",
+        "name": "Museo de los Pueblos de Paucartambo",
+        "opening_hours": "Mo,We,Fr 09:00-14:00",
+        "tourism": "museum",
+        "website": "https://www.culturacusco.gob.pe/museo-de-los-pueblos-de-paucartambo/",
+        "wikidata": "Q111085313",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5958682,
+          -13.3172792
+        ]
+      },
+      "id": "way/225524884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371242334",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/museosanfranciscocusco/",
+        "ele": "3400",
+        "name": "Convento de San Francisco de Asís",
+        "phone": "+511 431764",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9820371,
+          -13.5187916
+        ]
+      },
+      "id": "way/371242334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784847501",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Yucay Museo",
+        "name:en": "Yucay Museum",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0911516,
+          -13.3169235
+        ]
+      },
+      "id": "way/784847501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803941090",
+        "addr:postcode": "08000",
+        "addr:street": "Santo Domingo",
+        "alt_name": "Koricancha;Qoricancha;Qorikancha",
+        "historic": "ruins",
+        "int_name": "Coricancha",
+        "loc_name": "The Golden Temple",
+        "name": "Qurikancha",
+        "name:zh": "太陽神殿",
+        "old_name": "Intikancha;Intiwasi",
+        "phone": "+51 84 249176",
+        "tourism": "museum",
+        "wikidata": "Q817594",
+        "wikipedia": "es:Coricancha",
+        "wikipedia:qu": "Qurikancha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9751431,
+          -13.5202208
+        ]
+      },
+      "id": "node/803941090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/965131815",
+        "addr:city": "Cusco",
+        "addr:street": "Córdoba del Tucumán",
+        "alt_name": "Museo Arqueologico",
+        "fee": "no",
+        "name": "Museo Inka",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00",
+        "operator": "UNSAAC",
+        "phone": "+51 084-237380",
+        "tourism": "museum",
+        "website": "http://museoinka.unsaac.edu.pe",
+        "wikidata": "Q40159162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9781013,
+          -13.5152889
+        ]
+      },
+      "id": "node/965131815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/995446025",
+        "addr:city": "Cusco",
+        "addr:street": "Plazoleta Santa Catalina",
+        "name": "Museo de Santa Catalina",
+        "opening_hours": "Mo-Fr 09:00-17:30",
+        "operator": "Convento de Santo Domingo",
+        "phone": "+51 84 221386",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9773372,
+          -13.5175763
+        ]
+      },
+      "id": "node/995446025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/995446065",
+        "addr:city": "Cusco",
+        "addr:full": "Av. El Sol (Sótano de las Galerías Turísticas de la Municipalidad provincial de Cusco)",
+        "addr:housenumber": "103",
+        "addr:street": "Avenida el Sol",
+        "name": "Museo de Arte Popular",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su,PH off",
+        "operator": "Instituto Americano de Arte",
+        "tourism": "museum",
+        "website": "http://cosituc.gob.pe/museo-de-arte-popular/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9782645,
+          -13.5181506
+        ]
+      },
+      "id": "node/995446065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/995446219",
+        "addr:city": "Cusco",
+        "addr:housenumber": "231",
+        "addr:street": "Plaza de las Nazarenas",
+        "fee": "yes",
+        "name": "Museo de Arte Precolombino",
+        "name:en": "Museum of Precolumbian Art",
+        "name:fr": "Musée de l'art précolombien",
+        "opening_hours": "09:00-22:00",
+        "operator": "Banco Continental",
+        "short_name": "MAP",
+        "tourism": "museum",
+        "website": "https://mapcusco.pe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9773461,
+          -13.514909
+        ]
+      },
+      "id": "node/995446219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913887085",
+        "addr:city": "Cusco",
+        "addr:housenumber": "210",
+        "addr:postcode": "08002",
+        "addr:street": "Calle Garcilaso",
+        "email": "yummy@ChocoMuseo.com",
+        "level": "2",
+        "name": "Choco Museo",
+        "note": "Calle Garcilaso 210, Int. 216 (2do. piso) / Plaza Regocijo 203",
+        "opening_hours": "Mo-Su 08:00-20:30",
+        "operator": "Choco Museo",
+        "phone": "+51 84 244765",
+        "tourism": "museum",
+        "website": "https://www.chocomuseo.com/cusco/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9805017,
+          -13.517481
+        ]
+      },
+      "id": "node/1913887085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741450804",
+        "name": "Museo Amazónico Andino",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6978614,
+          -12.8565838
+        ]
+      },
+      "id": "node/2741450804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376427735",
+        "addr:city": "Cusco",
+        "addr:street": "Santa Catalina Ancha",
+        "name": "Museo Machu Picchu",
+        "name:en": "Machu Picchu Museum",
+        "name:es": "Museo de Sitio Machu Picchu",
+        "name:fr": "Musée Machu Picchu",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.976841,
+          -13.5172921
+        ]
+      },
+      "id": "node/3376427735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4123595292",
+        "name": "Museo Municipal de Arte Contemporaneo",
+        "phone": "+51 84 240043",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9803792,
+          -13.5167029
+        ]
+      },
+      "id": "node/4123595292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4333101714",
+        "name": "Museo Viviente del Ande",
+        "operator": "Awana Kancha",
+        "phone": "+51 84 632990",
+        "tourism": "museum",
+        "website": "http://www.awanakancha.com/es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8906038,
+          -13.4662291
+        ]
+      },
+      "id": "node/4333101714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382465293",
+        "addr:street": "Carretera Hiram Bingham",
+        "email": "museodesitiomapi@drc-cusco.gob.pe",
+        "name": "Museo Manuel Chávez Ballon",
+        "name:es": "Museo Manuel Chávez Ballon",
+        "opening_hours": "Mo-Su 09:00-16:30",
+        "phone": "+51 958194475",
+        "tourism": "museum",
+        "website": "http://museos.cultura.pe/museos/museo-de-sitio-manuel-ch%C3%A1vez-ball%C3%B3n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5389377,
+          -13.1608039
+        ]
+      },
+      "id": "node/4382465293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4642751990",
+        "addr:street": "Avenida El Sol",
+        "description": "Se ubica en el sótano de la explanada del Qoricancha",
+        "name": "Museo de Sitio Qorikancha",
+        "opening_hours": "Mo-Su,PH 09:00-18:00",
+        "operator": "Municipalidad Provincial de Cusco",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9759433,
+          -13.5209752
+        ]
+      },
+      "id": "node/4642751990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739035023",
+        "addr:street": "Cuesta de San Blas",
+        "alt_name": "Museo de Coca",
+        "name": "Museo de la Coca",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9741245,
+          -13.515241
+        ]
+      },
+      "id": "node/4739035023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739044421",
+        "addr:city": "Cusco",
+        "addr:housenumber": "225",
+        "addr:street": "Carmen Alto",
+        "name": "Museo Maximo Laura",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 17:00-20:00",
+        "tourism": "museum",
+        "website": "https://www.museomaximolaura.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9747811,
+          -13.5149618
+        ]
+      },
+      "id": "node/4739044421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4978101826",
+        "name": "Museo Inkariy",
+        "name:en": "Inkariy Museum",
+        "name:es": "Museo Inkariy",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.992951,
+          -13.3178003
+        ]
+      },
+      "id": "node/4978101826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5096003321",
+        "name": "Museo Quechua",
+        "name:es": "Museo Quechua",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9747543,
+          -13.5201054
+        ]
+      },
+      "id": "node/5096003321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5520606809",
+        "addr:city": "Cusco",
+        "addr:housenumber": "480",
+        "addr:street": "Hatunrumiyoc",
+        "alt_name": "Museo Choco",
+        "fee": "no",
+        "name": "Choco Museo",
+        "name:en": "Choco museum",
+        "name:es": "Choco Museo",
+        "name:fr": "Musée du Cacao",
+        "opening_hours": "Mo-Su 09:00-20:30",
+        "operator": "Choco Museo",
+        "phone": "+51 84 595653",
+        "shop": "chocolate",
+        "tourism": "museum",
+        "website": "https://www.chocomuseo.com/cusco/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9758996,
+          -13.5158808
+        ]
+      },
+      "id": "node/5520606809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5791201655",
+        "addr:street": "Calle Almagro",
+        "name": "Museo El Quijote",
+        "name:fr": "musee Quijote",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9782667,
+          -13.5187423
+        ]
+      },
+      "id": "node/5791201655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857164065",
+        "fee": "no",
+        "name": "Museo de Piedras Cusco Rumi Llaqta",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9646815,
+          -13.4887625
+        ]
+      },
+      "id": "node/5857164065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095356751",
+        "addr:street": "Calle Heladeros",
+        "name": "Museo Histórico Regional",
+        "name:fr": "Musée d histoire régionale",
+        "operator": "Ministerio de Cultura",
+        "tourism": "museum",
+        "website": "https://museogarcilaso.pe/",
+        "wikidata": "Q54800990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9803262,
+          -13.5176763
+        ]
+      },
+      "id": "node/6095356751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095477217",
+        "addr:city": "Cusco",
+        "name": "Museo de Historia Natural",
+        "operator": "UNSAAC",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9782434,
+          -13.517784
+        ]
+      },
+      "id": "node/6095477217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095477218",
+        "addr:street": "Sala de la Santa Inquisición, Plaza de Armas",
+        "name": "Museo de la catedral del cusco",
+        "operator": "Arzobispado del Cusco",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9776122,
+          -13.5164159
+        ]
+      },
+      "id": "node/6095477218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095477219",
+        "addr:city": "Cusco",
+        "addr:housenumber": "121",
+        "addr:street": "Calle Mantas",
+        "fax": "+51 84 231821",
+        "name": "Museo del Convento de la Merced",
+        "operator": "Comunidad Mercedaria",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9793051,
+          -13.5181345
+        ]
+      },
+      "id": "node/6095477219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095477220",
+        "addr:city": "Cusco",
+        "addr:street": "Plazoleta San Francisco",
+        "fax": "+51 84 228272",
+        "name": "Museo del Convento de San Francisco",
+        "operator": "Comunidad Franciscana",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9820721,
+          -13.5184251
+        ]
+      },
+      "id": "node/6095477220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6402570286",
+        "name": "Museo de Hilario Mendivil",
+        "name:en": "Hilario Mendivil Museum",
+        "name:fr": "Musée atelier d'Hilario Mendivil",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9740867,
+          -13.5151658
+        ]
+      },
+      "id": "node/6402570286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7356067142",
+        "name": "Catedral De Santo Tomas",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0791386,
+          -14.4487447
+        ]
+      },
+      "id": "node/7356067142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9278423795",
+        "name": "Museo de Qespiwanka",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1137617,
+          -13.3002007
+        ]
+      },
+      "id": "node/9278423795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9600899126",
+        "museum": "history",
+        "name": "Inca Wasi Casa Museo",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2635739,
+          -13.2571647
+        ]
+      },
+      "id": "node/9600899126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9854616617",
+        "addr:housenumber": "216",
+        "addr:street": "Callle Regocijo",
+        "name": "Choco Museo",
+        "opening_hours": "Mo-Su 09:00-19:30",
+        "phone": "+51 84 606586;+51 973190608",
+        "tourism": "museum",
+        "website": "https://www.chocomuseo.com/cusco/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9799488,
+          -13.516602
+        ]
+      },
+      "id": "node/9854616617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910655188",
+        "name": "Museo de Pisac",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8492616,
+          -13.4237106
+        ]
+      },
+      "id": "node/9910655188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10215866818",
+        "name": "Museo de las Plantas Sagradas",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9781932,
+          -13.5129894
+        ]
+      },
+      "id": "node/10215866818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239306166",
+        "description": "boleto de residentes en Ollantaytambo y comunidades Altoandinas gratis\nresidentes de valle sagrado y Cusco 12 soles\npara nacionales y extranjeros 20",
+        "name": "Alqa Museo de Arte Popular Andino",
+        "opening_hours": "Tu-Su 10:00-11:00, 12:00-13:00, 15:00-16:00, 17:00-18:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2625678,
+          -13.2570745
+        ]
+      },
+      "id": "node/10239306166"
+    }
+  ]
+}
